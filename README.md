@@ -7,7 +7,7 @@
 
 ## 🌱 I’m currently learning ...
 
-- Music:
+- Music
 - Building software:
   - Microservices architecture & various related technologies
 
