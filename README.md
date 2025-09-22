@@ -1,4 +1,9 @@
-# Stereotipik **Code that breaks the rhythm**
+<div align="center">
+  <h1>Stereotipik</h1>
+  <h3>Code that breaks the rhythm</h3>
+</div>
+
+---
 
 > A creative developer & music producer from France with a passion for building things that feel different.
 
