@@ -41,13 +41,10 @@ By day, I'm a software engineer who builds robust and scalable applications. By 
 ### Connect & See More
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-username/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://www.bandlab.com/stereotipik">
     <img src="https://img.shields.io/badge/BandLab-D60000?style=for-the-badge&logo=bandlab&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:stereotipik@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
