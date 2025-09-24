@@ -39,7 +39,9 @@ By day, I'm a software engineer who builds robust and scalable applications. By 
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stereotipik&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stereotipik&theme=tokyonight&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stereotipik&layout=compact&theme=dracula&hide_border=true)
 
 </div>
